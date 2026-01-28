@@ -93,6 +93,10 @@ nav span {
 
 main {
   padding: 60px 30px;
+  background-image: url(./assets/ReactLogo-1.png);
+  background-repeat: no-repeat;
+  background-position: right 65%;
+
 }
 
 main h1 {
