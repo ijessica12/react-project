@@ -69,7 +69,6 @@ main {
 }
 
 .ingredient-form button ::before {
-  content: "+";
   margin-right: 5px;
 }
 
