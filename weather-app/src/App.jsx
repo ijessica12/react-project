@@ -35,8 +35,6 @@ export default function App() {
           return response.json().then((weatherData) => {
             const currentTemperature =
               weatherData.current_weather.temperature;
-
-            // 🔥 Store everything in state
             setWeather({
               country: countryName,
               capital: capitalCity,
